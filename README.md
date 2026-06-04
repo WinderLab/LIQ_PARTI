@@ -3,7 +3,7 @@
 ## Included in this repository:
   - Arduino code for LIQ PARTI running off an Arduino Mega
   - 3D models for all required 3D-printed components in various file formats (STL, STEP, SHAPR)
-  - Step-by-step build instructions and video tutorial can be found on the [Wiki page](https://github.com/WinderLab/LIQ_PARTI/wiki))
+  - Step-by-step build instructions and video tutorial can be found on the [Wiki page](https://github.com/WinderLab/LIQ_PARTI/wiki)
 
 ------------------------------------------------------------------
 
